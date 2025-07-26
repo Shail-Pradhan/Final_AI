@@ -2,6 +2,9 @@
 
 Follow this quick guide to deploy both the **backend** and **frontend** of the app using [Render](https://render.com).
 
+**What is Render?**  
+
+[Render](https://render.com) is a cloud platform that lets you host full-stack web apps for free. It supports automatic deployments from GitHub, making it super easy for beginners to launch web apps without managing servers.
 ---
 
 ### 🛠 1. Backend (API Server)
